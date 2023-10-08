@@ -16,12 +16,11 @@ A simple and robust password generator with a user-friendly GUI. Generate passwo
 1. Clone the repository and navigate to the project directory:
    ```bash
    git clone https://github.com/YOUR_USERNAME/Password-Generator.git && cd Password-Generator
-   
-
-
-
-
-
+   ```
+2. Run the program:
+  ```bash
+   Python gui.py
+  ```
 ## Dependencies 📦
 
 - `tkinter`
