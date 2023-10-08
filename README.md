@@ -2,7 +2,7 @@
 
 A simple and robust password generator with a user-friendly GUI. Generate passwords tailored to your needs with options for symbols, numbers, and capital letters.
 
-![GUI Image Placeholder](gui.png)
+![GUI Preview](gui.png)
 
 ## Features 🌟
 
@@ -13,7 +13,10 @@ A simple and robust password generator with a user-friendly GUI. Generate passwo
 
 ## Installation 🔧
 
-1. Clone the repository: https://github.com/egeland00/Password-Generator.git
+1. Clone the repository and navigate to the project directory:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/Password-Generator.git && cd Password-Generator
+   
 
 
 
